@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace SteamHub
+namespace SteamHubSpravny
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace SteamHub
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new SteamHubMenu());
+            Application.Run(new Form1());
         }
     }
 }
