@@ -24,7 +24,7 @@ namespace SteamHub
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            
         }
 
         private void metroButton1_Click_1(object sender, EventArgs e)
@@ -33,6 +33,11 @@ namespace SteamHub
         }
 
         private void metroTabPage1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void metroTextBox1_Click(object sender, EventArgs e)
         {
 
         }
